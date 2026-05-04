@@ -4,9 +4,7 @@ Restaurant sales feature engineering with NumPy and Pandas and interactive e-com
 
 Workflow: enrich a restaurant sales CSV, then visualize trends and correlations with Matplotlib, Seaborn, and Plotly.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pandas,numpy,matplotlib,seaborn,plotly" height="48" alt="Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly" />
-</p>
+<p><img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/><img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/><img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/><img src="https://img.shields.io/badge/SEABORN-9C554A?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/><img src="https://img.shields.io/badge/PLOTLY-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/></p>
 
 Repository: [markrtak/restaurant-sales-pandas-visualization-pipeline](https://github.com/markrtak/restaurant-sales-pandas-visualization-pipeline)
 
