@@ -2,7 +2,11 @@
 
 Restaurant sales feature engineering with NumPy and Pandas and interactive e-commerce trend reporting.
 
-Two-step workflow: enrich restaurant sales CSV with NumPy/Pandas, then visualize trends and correlations (Matplotlib/Seaborn/Plotly).
+Workflow: enrich a restaurant sales CSV, then visualize trends and correlations with Matplotlib, Seaborn, and Plotly.
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,pandas,numpy,matplotlib,seaborn,plotly" height="48" alt="Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly" />
+</p>
 
 Repository: [markrtak/restaurant-sales-pandas-visualization-pipeline](https://github.com/markrtak/restaurant-sales-pandas-visualization-pipeline)
 
@@ -16,7 +20,7 @@ Repository: [markrtak/restaurant-sales-pandas-visualization-pipeline](https://gi
 | `scripts/visualization_report.py` | Plots + interactive Scatter HTML output. |
 | `outputs/` | Created when you run the visualization script (`*.png`, `interactive_scatter.html`). |
 
-Dataset reference: [Restaurant sales – Kaggle](https://www.kaggle.com/datasets/rohitgrewal/restaurant-sales-data).
+Dataset: [Restaurant sales – Kaggle](https://www.kaggle.com/datasets/rohitgrewal/restaurant-sales-data).
 
 ## Prerequisites
 
@@ -26,7 +30,7 @@ pip install pandas numpy matplotlib seaborn plotly
 
 ## Usage
 
-Run from project root (`ecommerce-sales-pipeline`).
+Run from the project root.
 
 ### 1. Produce processed data
 
