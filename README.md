@@ -1,6 +1,10 @@
 # E-commerce sales pipeline
 
+Restaurant sales feature engineering with NumPy and Pandas and interactive e-commerce trend reporting.
+
 Two-step workflow: enrich restaurant sales CSV with NumPy/Pandas, then visualize trends and correlations (Matplotlib/Seaborn/Plotly).
+
+Repository: [markrtak/restaurant-sales-pandas-visualization-pipeline](https://github.com/markrtak/restaurant-sales-pandas-visualization-pipeline)
 
 ## Layout
 
